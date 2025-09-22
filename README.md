@@ -43,6 +43,6 @@ chosen track in college, gender, or hometown contributes to a higher average sco
 # Author
 John Migz D. Alveza
 ## Date of Submission
-September 17, 2024
+September 22, 2025
 ## Section
-2ECE-C
+P-ECE2112
